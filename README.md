@@ -2,11 +2,16 @@
 
 <br/>
 
-This is the repository for the codes used in 2023 POSTECH OIBC Challenge <br/>
+This is the repository for the codes used in 2023 POSTECH OIBC Challenge 
 
-Our team(`폭풍대기`) won the Excellence Prize(3rd place, 3/120) in the [final result](https://o.solarkim.com/cmpt2023/notice), 4th place(4/120) in the [preliminary scoreboard](https://o.solarkim.com/cmpt2023/). <br/>
+Our team(`폭풍대기`) won the Excellence Prize(3rd place, 3/120) in the [final result](https://o.solarkim.com/cmpt2023/notice), 4th place(4/120) in the [preliminary scoreboard](https://o.solarkim.com/cmpt2023/).
 
-Please refer to the [comptetion website](https://competition.postech.ac.kr) for more details.
+<br/>
+
+> Note: Please refer to the [comptetion website](https://competition.postech.ac.kr) for more details on the competition.
+
+> Note: You can also refer to the [Presentation PDF](assets/OIBC_presentation.pdf) for more details on our approach.
+
 
 <br/>
 <br/>
@@ -65,7 +70,7 @@ We anlayzed the correlation between the features (including model predictions) a
 
 We used LSTM with attention as our base model since LSTM is known to be effective in time series forecasting and attention mechanism can help the model to focus on the important features and address the long-term dependency problem.
 
-![LSTM with Attention](assets/lstm_with_attention.png)
+![LSTM with Attention](assets/LSTM_with_attention.png)
 
 
 <br/>
