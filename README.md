@@ -116,6 +116,23 @@ We used LSTM with attention as our base model since LSTM is known to be effectiv
 # 4. Team
 
 <table>
+    <tr height="140px">
+      <td style="text-align:center">
+         <a href="#">
+            <img src="https://github.com/github.png"/>
+         </a>
+      </td>
+      <td style="text-align:center">
+         <a href="https://github.com/juk1329">
+            <img src="https://github.com/SeungOkOH.png"/>
+         </a>
+      </td>
+      <td style="text-align:center">
+         <a href="https://github.com/glanceyes">
+            <img src="https://github.com/glanceyes.png"/>
+         </a>
+      </td>
+   </tr>
    <tr>
        <td style="text-align:center"><a href="#"><b>Jieun Shin(신지은)</b></a></td>
        <td style="text-align:center"><a href="https://github.com/SeungOkOH"><b>Seungok Oh(오승옥)</b></a></td>
