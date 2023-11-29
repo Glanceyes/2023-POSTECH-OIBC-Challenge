@@ -115,32 +115,32 @@ We used LSTM with attention as our base model since LSTM is known to be effectiv
 
 # 4. Team
 
-<table>
+<table style="text-align:center">
     <tr height="140px">
-      <td style="text-align:center">
+      <td>
          <a href="#">
             <img src="https://github.com/github.png"/>
          </a>
       </td>
-      <td style="text-align:center">
+      <td>
          <a href="https://github.com/juk1329">
             <img src="https://github.com/SeungOkOH.png"/>
          </a>
       </td>
-      <td style="text-align:center">
+      <td>
          <a href="https://github.com/glanceyes">
             <img src="https://github.com/glanceyes.png"/>
          </a>
       </td>
    </tr>
    <tr>
-       <td style="text-align:center"><a href="#"><b>Jieun Shin(신지은)</b></a></td>
-       <td style="text-align:center"><a href="https://github.com/SeungOkOH"><b>Seungok Oh(오승옥)</b></a></td>
-       <td style="text-align:center"><a href="https://github.com/glanceyes"><b>Seonho Lee(이선호)</b></a></td>
+       <td><a href="#"><b>Jieun Shin(신지은)</b></a></td>
+       <td><a href="https://github.com/SeungOkOH"><b>Seungok Oh(오승옥)</b></a></td>
+       <td><a href="https://github.com/glanceyes"><b>Seonho Lee(이선호)</b></a></td>
    </tr>
    <tr>
-      <td style="text-align:center">Data Preprocessing<br/>Feature Engineering</td>
-      <td style="text-align:center">Data Preprocessing<br/>Team Management</td>
-      <td style="text-align:center">AI Modeling<br/>Code Management</td>
+      <td >Data Preprocessing<br/>Feature Engineering</td>
+      <td>Data Preprocessing<br/>Team Management</td>
+      <td>AI Modeling<br/>Code Management</td>
    </tr>
 </table>
