@@ -2,6 +2,10 @@
 
 <br/>
 
+![Prediction_Graph](assets/prediction_graph.png)
+
+<br/>
+
 This is the repository for the codes used in 2023 POSTECH OIBC Challenge 
 
 Our team(`폭풍대기`) won the Excellence Prize(3rd place, 3/120) in the [final result](https://o.solarkim.com/cmpt2023/notice), 4th place(4/120) in the [preliminary scoreboard](https://o.solarkim.com/cmpt2023/).
@@ -49,7 +53,7 @@ We used the <b>solar insolation feature</b>(hourly extraterrestrial radiation on
 
 #### Feature Selection
 
-We anlayzed the correlation between the features (including model predictions) and the target variable, and eliminated the features that were not correlated with the target variable.
+We analyzed the correlation between the features (including model predictions) and the target variable, and eliminated the features that were not correlated with the target variable.
 
 - Selected Features: `cloud`, `humidity`, `wind_dir`, `vis`, `uv_idx`, `elevation`, `hour`, `Q13`
 
@@ -68,7 +72,7 @@ We anlayzed the correlation between the features (including model predictions) a
 
 ### LSTM with Attention
 
-We used LSTM with attention as our base model since LSTM is known to be effective in time series forecasting and attention mechanism can help the model to focus on the important features and address the long-term dependency problem.
+We used LSTM with attention as our base model. LSTM is known to be effective in time series forecasting. In addition, attention mechanism can help the model to focus on the important features and address the short-term dependency problem.
 
 ![LSTM with Attention](assets/LSTM_with_attention.png)
 
@@ -118,8 +122,8 @@ We used LSTM with attention as our base model since LSTM is known to be effectiv
 <table style="text-align:center">
     <tr height="140px">
       <td>
-         <a href="#">
-            <img src="https://github.com/github.png"/>
+         <a href="https://github.com/wldms25">
+            <img src="https://github.com/wldms25.png"/>
          </a>
       </td>
       <td>
