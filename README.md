@@ -138,9 +138,9 @@ We used LSTM with attention as our base model. LSTM is known to be effective in 
       </td>
    </tr>
    <tr>
-       <td><a href="#"><b>AAAAA(가가가)</b></a></td>
-       <td><a href="https://github.com/SeungOkOH"><b>BBBBBB(나나나)</b></a></td>
-       <td><a href="https://github.com/glanceyes"><b>CCCCC(다다다)</b></a></td>
+       <td><a href="#"><b>Shin jieun(신지은)</b></a></td>
+       <td><a href="https://github.com/SeungOkOH"><b>Oh Seungok(오승옥)</b></a></td>
+       <td><a href="https://github.com/glanceyes"><b>Lee Seonho(이선호)</b></a></td>
    </tr>
    <tr>
       <td >Data Preprocessing<br/>Feature Engineering</td>
