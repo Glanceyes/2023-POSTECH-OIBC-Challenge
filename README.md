@@ -139,7 +139,7 @@ We used LSTM with attention as our base model. LSTM is known to be effective in 
    </tr>
    <tr>
        <td><a href="#"><b>Jieun Shin(신지은)</b></a></td>
-       <td><a href="https://github.com/SeungOkOH"><b>Seungok Oh(xxx)</b></a></td>
+       <td><a href="https://github.com/SeungOkOH"><b>xxxxxxx(xxx)</b></a></td>
        <td><a href="https://github.com/glanceyes"><b>Seonho Lee(이선호)</b></a></td>
    </tr>
    <tr>
